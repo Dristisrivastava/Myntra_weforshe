@@ -92,7 +92,7 @@
     width: 350px;
     height: 450px;
     border-radius: 4%;
-    border: 4px solid rgb(205, 36, 92);
+    border: 2px solid rgb(205, 36, 92);
   }
   .container img {
     cursor: pointer;
